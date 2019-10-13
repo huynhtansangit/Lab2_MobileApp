@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab02_4</string>
+    <string name="quan_ly_nhan_vien">Quản lý nhân viên</string>
+    <string name="manv">Mã NV:</string>
+    <string name="tennv">Tên NV:</string>
+    <string name="loainv">Loại NV:</string>
+    <string name="chinhthuc">Chính thức</string>
+    <string name="thoivu">Thời vụ</string>
+    <string name="nhapnv">Nhập nhân viên</string>
+
+</resources>
